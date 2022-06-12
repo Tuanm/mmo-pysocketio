@@ -1,0 +1,4 @@
+#!/bin/bash
+
+source ./.venv/bin/activate
+PORT=7890 python3 main.py
